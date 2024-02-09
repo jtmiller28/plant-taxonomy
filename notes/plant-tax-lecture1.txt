@@ -1,0 +1,72 @@
+Plant Taxonomy
+What is Taxonomy? 
+Taxis 
+nomia : method
+
+Taxonomy - Systematics - Classification
+
+Traditionally speaking, taxonomy is the discipline at the core of biological discoveries and classification is its most direct product. 
+narrowest meaning: science of discovery, describing and naming taxa and groups of related taxa
+
+Systematics narrowest meaning: study of biological diversity and discovery of relationshops among all organisms, both extant and extinct. 
+	- Tasks: Reconstruct evolutionary history
+	- Scale: ...
+
+
+Where did this all start? 
+	Useful properties of plants 3000 BC in China: pharmacutical uses 
+	In scientific way Plato (427-347 BC) considered the problem of artifical vs "natural kinds" <- a real entity in nature
+	Plato gives no procedures for finding natural kinds: he does not think that there are any such procedures. 
+	
+	Aristotle: More empirically oriented, also addressed "natural kinds" 
+		A group is real if (and becuase) it has an essence and a final cause unique to itself. 	
+		What is a genus and species What is the essence that makes a genus? a species? What is the differentiating characters that define groups. Linnaeus didnt invent this thinking. This is essentialism is: defining the traits/groups of life. Influenced the taxononist of the 19th-20th centruy
+		Created the Scala Naturae: Ladder thinking (was literally a scale) great chain of being, didnt understand evolution.
+	Pre-Linnaean taxonomy
+		Caspar Bahuin: descibed about 6000 sp. (Linnaes didnt create the binomial), experimented with nomenclature and tried pruning. Didnt really give identity to these though (...)
+	Augustus Rivinus: Higher levels of taxonomy (family etc) 
+	Tournefort: Gave the formal form of a genus (what defines a genus, how do I group these (little different from Aristrotle but what is the difference?))
+	John Ray: What is the term of species, variation was poorly understood and therefore all variation needed to be accounted for. John started to suggest that maybe there was some tolerance for what is a species. Measure of what variance could be tolerated for a "species" 
+	
+	Linnaeus: Created order (synthesis).
+		Assumptions: Creationism: species are immutable
+			     Essentialism: Categories are defined by their attributes (traits). All members of a group must have that trait to be in said group. 
+		Formalized categories: Kingdom - species: created the rules of binomial 
+		These classes are abstract classes (categories). Some sort of logical relationships not natural 
+		
+	Post-Linnaean taxonomy
+		Essentialism held things back, holistic analysis and variation was needed (nature was not static), species must be mutable (pre-Darwin). Things mutate over time. 
+		Lamarack built a tree of life without evolutionary principle (fault being that a living organism offshooted from living organism). 
+	
+	Darwinian theories: 
+		Natural proceeses give rise to species
+		Species are not static classes (Darwin did NOT even believe in the rank of species) 
+
+	Post-Darwinian Phylogenetics 
+		(intuitive evolutionary concepts) 
+			Charles Bessey: Bessey's cactus: evolutionary tree (for plants) though extant groups originated from extant groups
+			Walter Zimmermann: How do we formulize the ideas what Darwin talked theorized about. Monophyletic groups, stems, trees, etc. Made a clear distinction: Special purpose utilitarian (contain this trait), Idealistic (what we think, not represntative on nature), Phylogenetic (based on genealogies). Talked how much the phylogenetic had to offer. 
+			Willi Hennig: Entomologist, considered the founder of phylogenetic systematics. 
+	
+	Nested Hierarchies WITH genealogical relationships. 
+		Rolf Dahgren: Dahlgrenogram. Unfortunately represented it in a non-evolutionary looking way. 
+
+Taxa
+	what is a taxon? In tradition linnaean taxonomy, organisms are grouped into taxa because they share similar traits. Taxa = cateogries (they fit into ranks) 
+	Categories are defined by their attributes (traits) 
+	Categories cannot evolve with respect to their attributes (very important and fundemental)
+	Individuals are shared and derived traits, BUT synapomorphies do not define individuals (like traits define categories) they diagnose them. e.g. AVES they are diagnosed by a feather, if you lose feather are you still a bird. 
+
+So what are taxa in tree thinking? 
+	Taxa must be clades. 
+
+Phenetics: 
+Obsession with building classification using traits. Problem: Traits are hypothesis, and therefore can be interpreted differently. Created dendrograms, not genoalogy but isntead overall similarity between groups to form "trees". Can be arbitrary
+
+What if we mix them: morphology mixed with genological groups Evolutionary taxonomy. Todd Stuessy: Phenetics and Phylogenetics intergrated. e.g. reptiles they dont really exist in nature (as they are paraphyletic without birds) Believes that paraphyletic groups can exist if there is a utilitarian group (if we find it useful as humans why not keep it). 
+
+So the problem with trees, cladograms, and phylograms is they can be interpreted very differently. We use trees for many things. 
+
+So again, what are taxa? What are the elements we need to build classification? 
+   
+

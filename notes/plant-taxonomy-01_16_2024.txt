@@ -1,0 +1,154 @@
+01-16-2024 Plant Taxonomy: Classification & Nomenclature
+
+So, what are taxa
+
+What are the desirable to build classifications...? 
+- We tend to classify everything for organization pirposes
+Summarize information (storage) 
+- Hierarchical nature ideal to capture and organize knowledge 
+- Knowledge representation 
+
+With classifying: we can generate hypotheses (predictive) 
+- Taxol as a drug against cancer, systemetist found the closest relative of had high concentration of taxol in leaves of related species that allowed for responsible harvesting. 
+- Querying life (knowledge retrieval): Tree of life is huge so this is difficult.
+- Eventually everything is hierarchical. 
+
+
+So which nested hierarchy should we consider?
+- what criterion should a clssification based
+- to what esxtend do we apply the product of classifications? 
+	- Should we organize a collection by alphabet? by phylogenetic, ...
+- Should they be utilitarian to the point of accepting paraphyly 
+	- Should musuem collections be arranged alphabetically? 
+		(I think it depends heavily on taxa and storage) 
+
+W. Hennig
+What is your classification?  
+What is the appropriate naming system?
+
+How do we reconcile traditional (Linnaean) nomenclature with tree-thinking 
+Clades are natural groups, now we have to put names on the tree...the most popular system is the Linnaean system. 
+Technically every node could have a name...but we choose not to do that. So how do we place Linnaean ranks (phylum, family). 
+
+Biological Nomenclature 
+Classification: is a the most product of systematics 
+- the process of organizing the taxa we discovered 
+Nomenclature: the naming of organi
+
+What is a name?
+used for communication, information, universal, unambiguity, stability. 
+
+What about species? 
+Controversal: what do we agree on what we are naming, classifying, and discovering? 
+zooming into populations or zooming out 
+
+The codes: there are codes for each clade are different 
+
+Nature does not generate ranks, ranks do not evolve. 
+
+With nomenclature and classification are tied together:
+- when things change, everything must change 
+- placing ranks on a phylogeny is always subjective. 
+
+Basic Concepts: 
+When describing a new species:
+- Priority....whoever does it first takes the name
+- Synonymy: anyone else 
+- homonymy: Ssame name applied to different taxa. Tolerated as long as its across domains
+- Name conservations: *Manospondylus giga* should be the name by priority instead of *T. Rex*. *Acacia* was first described in Africa, but are an evolutionary disaster. *Acacia* type species was originally in Africa so...shouldn't it stay with the African. 
+
+So traditional nomenclature is tied to types. You tell the community based on a type specimen (Holotype). Pictures, illustrations can be vouchers. <- but not DNA information
+Every name must have a type. Every genus must have a type species. Homo sapiens is Linnaeas. 
+
+DNA Sequences as types:
+Rejected six years ago. Read the Thiele et al. 
+
+So...Are Linnaean cateogries necessary? Are they useful? 
+- Hierarchy isnt a problem...but we dont have enough
+- Endings...useful if you know the group. 
+
+Ranks must be mutually exclusive: 
+- Two ranks cant be within eachother. 
+		- Isoptera (termites) -> found that they are in cockroaches -> family: Termitidae...this didnt happen because too much work for people
+		- Drosophila: not monophyletic...polyphyletic, type specimen: Drosophila funebris Clade that contains the type species doesnt include the majority. ...So all drosophila would need to be renamed. So...nothing was done...
+
+
+Ranks arent comparable:
+You cannot compare a family to a family....evolutionary time is not considered fully. 
+	- Hennig thought if there was a time point we could start from |-> 
+		- Didnt work...
+	- Putting ranks forces trees into cladograms without time considered. 
+
+Phylogenetic reconciling:
+	- Merges: phylogenetic instability
+	- Splits: rename the other groups: creates confusion
+
+Monotypic taxa cause problems...one taxon isnt supposed to represent 
+
+Names: character string....name and the description are decoupled. Taxonomic backbones dont have associated taxonomic concepts. 
+
+Is there a solution? 
+- How do we reconcile names and taxon concepts. 
+- Well a clade is a clade..
+
+Tree thinking: Common descent -> evolation is at the center of taxonomy 
+- we discover clades...not genera/families
+
+Putting the tradition names on a phylogeny is subjective: 
+- Also traditional knowledge is trying to be applied, its kinda an approximation. 
+
+Phylogenetic Nomenclature: originally called Phylogenetic taxonomy
+	- Phylogenetic definitions: Match the topology exactly
+		- Node-based (minimum clades)  
+		- Branch-based (maximum clades)
+		- Apomorphy-based (based on a trait itself)
+	- Independent from categorical ranks...it doesnt matter, no changes in spelling
+	- Phylocode: 
+		- A bunch of rules on how to put together a clade name: not anything to do with classification
+		- Basics:
+			- A minimum (node based) clade
+			- A maximum (branch based) clade
+			- An apomorphy-based clsdae
+			- A crown clade
+			- A total clade
+		- What is the difference Branches and Stems
+			- Branch is consistent with temrinology: internode (any internode) 
+			- Stem is a lineage
+			- Therefore, stems are a subset of branches (always subtends a crown cldade)
+
+		- A gcorwn clade is a clade originating from the last common ancestor of two or more extant organisms or species. 
+		- A total clade: has a crown clade and includes the stem lineage. (a Branch based clade, subtends a crown cldade) 
+		- Stem group: paraphyletic, named informaly as its not a real clade. 
+
+
+Minimum clades (node-based clades)
+- minimum clades originate at any node on the tree where the node represents the instant where one lineage splits into two. (Least inclusive clade) Minimum of 2, but could include more. Node-based clade can be crown clade: a minimum clade originating from the most recent...
+
+- Specifiers: can be species names, specimens, apomorphies (traits) 
+
+When do we choose a minimum (crown) clade definition 
+- strong phylogenetic hypothesis (way better than 50%) uncertainty is no great
+- Confidence about the clade content: the selected specifiers are stable ingroup members.
+- (Stability) is determined by the different studies having the same clade contents. Different phylogenies can represent the same resolution (clade content) but have different content (different representation inside).  Clade content will change, but this doesnt negate the stability of a clade if the clade is recovered each and everytime. 
+
+Requires a hypothesized phylogeny 
+Taxon concepts cannot change if their cited to a phylogeny, though phylogenies may change. There isnt any room for misinterpretation. 
+
+Clade names: Some are preserved that have withstood the test of time.
+
+Maximum (crown) clades (Branch based clades) 
+- Includes the stem lineages and all the extinct taxa that spin off of it. Can point to a crown clade or not. Includes what is needed to stay out of that clade...flowering plants are defined this way. Best used when we're uncertain what could be included but we know for sure what ISNT included. 
+
+Apomorphy based clades: originate with a partiuclar apomorphy on the tree. These clades include the part of the lineage where the character becomes fixed. 1 internal specifier, has the trait. 
+- Traits that have convergent evolution = not great idea
+- Traits have subjectivity = can cause issues with how we diagnose traits, though see bio ontologist.
+Grouping by a trait = not good, but using a diagnosing trait (synapomorphy) is good. 
+Traits can be lost. Doesnt mean you arent a member of the club anymore. 
+
+
+Pan is how we designate total clades: Pan Coniferae 
+
+
+Way to get around uncertainty: Simply dont name a specifier that is liable to have uncertainty (just dont talk about it)
+
+

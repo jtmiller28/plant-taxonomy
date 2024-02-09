@@ -1,0 +1,54 @@
+Plant Taxonomy 02-06-2024
+
+Wrap up - Families of Cycads
+- Cycadaceae & Zamiaceae
+- constent with APWeb (Angiosperm Phylogeney website, but has gymnosperms and lycophytes etc developed by Peter Stevens)- Cycadaceae = Cycas 
+- Zamiaceae 
+	- Synonyms: Boweniaceae, Dioaceae, Encephalartaceae, Microcycadaceae, Stangeriaceae.
+- Cycadaceae (distribution primarily SouthEast Asia) 
+- Zamiaceae 
+	- 9 genera 
+	- 255 species (peter reports this)
+
+
+Seed Plants 
+- Conifers, part of the gymnosperms
+- 7 fams (according to Judd et al.), APWeb recognizes the Pinales and the Cupressales, Gnetales are not included at all in this phylogeny however (Gnepine hypothesis and Gnecups hypothesis have seen recent support), also the Gnetifer hypothesis. 
+- So steven doesnt even include the Gentophytes...
+
+Pinaceae
+- Northern Hemisphere
+- Ecologically dominant in several areas
+- great source of timber
+- Ornamentals 
+- Turpentine 
+- Pine 'nuts'
+- Many genera (6) in textbook, more generally recognized
+- Cone structure: microstrobili, megastrobilus. Monoecious plants. Pollen grains have mickey mouse head (air bladders that aid in wind dispersal) 
+-Ovules (born on the scales (branches of the strobili)) is the basic plan, but this is different in pines. sitting on top of the scale is the ovule. This structure is called a compound megastrobilus (the ovule doesnt sit on the megasporophyll). Easy to tell on the Doug Fir,bracts are easily removable in doug fir. 
+	- Evolutionary origin of the Compoind megastrobilus of pine 
+		- female strobilus (pinecone!) 
+		- We think: the ancestor may of had ovules sitting attached to a pedicel (or some other sort of branch) 				like a ginkgo, then reductions took place (leaf reduced to bract, branch to scale, fusion of bract and scale). 
+
+Pinaceae -- ovule 
+- megagametophyte: embryos (one takes over) and then megagametophyte provides nutrients for the developing embryo. 
+- Reproduction takes a long long time. This is true mostly broadly across conifers. 
+
+Cupressales 
+	- 5 families (or 6 if we break of taxaceae) 
+- Araucariacea
+	- 
+- Podocarpaceae
+	- Southern Hemisphere conifers
+	- Seem to take a similar ecological role as those in the northern hemisphere
+	- They dont make the typical woody cone, instead their fleshy parts that subtend the ovule. 
+- Sciadopityaceae
+	- one species, Japanese Umbrella Pine, 'needes' = cladodes = a flattened organ derived from stem tissue. Like a prickily pair cactus! 
+- Taxaceae
+	- Yew family, ovules are not born in the strobolus, they are born with a fleshy aril around it (important for dispersal) 
+	- Cephalotaxus (sometimes believed to be part of their own family) 
+- Cupressaceae
+	- Sequoia! 	
+	- Living fossils! Metasquoia!
+
+

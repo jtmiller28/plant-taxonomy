@@ -1,0 +1,37 @@
+Hybridization, Introgression, Polyploidy
+
+Hybridization: cross between different genotypes in a population, also grafting...mess of definitions
+Stebbins: crossing between individuals belonging to sperate populations which have different adapative norms. 
+Genetic engineering = hybrids? (not) its just moving genes 
+Horizontal Gene Transfer: (not hybdridization) Lateral Gene Transfer: the movement of genetic material between incellualr and multicellualr organisms other than by the vertical transmission of dan from parent to offspring. Moves great distances (can).
+	- Classic example: Parastism (intracellular connections). 
+
+First artificial cross: Tragopogon
+
+Hybrids and hubrid swarms:
+hybrid swarms: Cross with eachother, cross with parents: basically a mess/mix. 
+intermediate habitats are thought to be important to allow persistence and success of hybrids. 
+
+Long thought that hybridization is important for plants more so than animals. 
+- Alot more common then we thought.
+
+Introgression
+- is the movement of a genes from one species into a gene pool to another by backcrossing. 
+- Adaptive introgression is questionable...
+
+Homoploid hybrid speciation: Not common
+unusual. Hybridization between taxa at the same ploidal level. Its a hybrid that is isolated from parents (speciation). 
+Requires chromosomal changes. (seems like semantics...what is a species anyway though). 
+
+Polyploidy:
+Generates genetic and source of phenotypic novelty. 
+All extant flowering plants of polyploid origin
+most major crops are polyploid 
+Hundreds of ancient WGCs have been identified. 
+Some acient WGDs can be mapped to geologic events. 
+Great responder to stress (hypothesis) 
+- allopolyploid AA + BB = AABB
+- autopolyploid AA + AA = AAAA
+
+Cyteny: ways to check for WGD, since it shows retainment of the alignment. 
+ 

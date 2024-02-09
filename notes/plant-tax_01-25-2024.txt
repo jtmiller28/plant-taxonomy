@@ -1,0 +1,83 @@
+Plant Taxonomy 01-25-2024 Notes
+
+### Introduction to Green Plants up to Tracheophytes
+
+Tree of Life
+	- Can represent species (deep) or population level evolution. 
+	- Heackel 1867 tried to depict these grand trees of life 
+	- David Hillis <- famous phylogenecist, 2000 tips tree built with ribosomial DNA
+	- Open Tree of Life: 2.3 million names on a summary tree: phylogenies in the literature compiled into a supertree. Tips summarize groups. Data type represents the color of the branches on the figure. Red = molecular, green/blue = not much if any dna. Most of the metazoa = blue = little molecular data. Most trees have been built primarily on morphilogical data (Metazoa especially). Remaining names that weren't OTUs were collapsed into clusters based upon taxonomic affinities. 
+	- the 'major' groups of animals Animals fungi and plants actually only make a small portion of the biodiversity on this planet. 
+
+Eukaryotic clades
+
+ - A single origin of photosynthesis
+	old tree and new tree is mostly similar: meaning the story of plastids and photosynthesis is largely unchanged since the 90s. - Photosynthesis (facilitated by plastids) is about everywhere besides the ((animals, fungi), slime-molds) clade.
+ - So where did the plastids crop up across the phylogeny? There are multiple events. 
+ - Primary EndosymbiosisL origin of the chloroplast: phagocytosis engulfed the cyanobacterial -> making it a plastid overtime. We can tell this by the outer-inner membrane that is retained around the plastid. A chloroplast has at a minimum of 2 membranes. This feature was used to identify algaes. 
+- The Red algae are the sister group to all of the green plants, but whats interesting is that there is a transfer of its chloroplast to the other group (brown algae, diatoms, etc) this was another endosymbiotic event: Secondary Endosymbiosis event. Eukaryote incorporated a red algal cell: creating 3-4 membranes around their plastids. Other members (like euglinids) got their chloroplasts from other green plant secondary endosymbioses events. It can get more complicated but lets just leave it here for now.
+
+Green Plants (Viridiplantae): We will use phylogenetic definitions when we can. Sometimes (especially outside of tracheophytes) we might need to fill these in as time goes on. 
+- Look at the trees provided in our textbook, they provide good general trends that still apply. 
+- 2 major clades in the green plant: common ancestor that precedes the basal split is ~ a billion years old. 1. Chlorophytes, 2. St_something phytes 
+- "green algae" are a non-monophyloetic group. 
+- For green plants Synapomorphies: chlorophyll B (not A), starch is the photosynthetic product, flagellar structure, number of gene transfers between the plastid (used to be cyanobacterial). so certain genes have been lost from the chloroplast genome. 
+
+	Chlorophytes
+		- Volvox 
+		- Chlamydomonas: origin of colonial cells(?)  
+		- Ulva 
+		- Multicellularity also originated in this group seperately 
+			- Volvox 'operates' like multicellular organisms depending on your definition. 
+
+- Glycolate Oxidase: Synapomorphy of Stretophytes
+	- Improtant player in oxalate accumulation in plants. 
+	- Plays various roles..._..._
+
+	Streptophytes 
+		- Chara 
+		- Spirogyra
+		- Nitella 
+		- Desmid 
+
+Charophytes were/are thought to be sister to the land plants. Molecular phylogeny did supports this 
+ - If thats the case they would have the synapomorphies with the land plants: __, __, __. ...but some studies with greater some studies with greater taxomic sampling found something different! 
+ - Zygnematales were found to be sister! Chloroplast + Nuclear data suggests this currently. 
+
+Sistre to Land Plants: Alternative Topologies 
+- Zygn-sister, Char-sister, Col-sister (Zygn is best supported currently) 
+
+1KP project: Massive Data Increase for the majority of these lineages which allowed for doing much bigger nuclear phylogenies. Wicket et al paper's message was maintained by this paper. 
+
+	Embryophytes (Land Plants)
+		- Synapomorphies: Cutcile, anthridia/archegonia(gameitagian), embryo, sporangium, thick-walled spores with sporopollenin
+		Adaptations to Land: 
+			- Multicellular gametangia (Archegonium, Antheridium), Multicellular sporophyte. 
+			- Multicellular sporangia: strobalis. 
+			- Cuticle: prevents tissue from drying out. Pectin + cellulose + wax + cutin. Used as a taxonomic marker occasionally. 
+			- First land plants originated during Ordivician (probably) (~450 mya). Probably represents some of the bryophytes. Silurian is first fossils, Devonian we have good fossil representation. 
+
+Phylogeny of Green Plants: Embryophytes
+	- Early morphology phylogenetic studies divided the Liverworts, Hornworts, and Mosses. 
+		- There was some competing topologies for years about this based upon how you construct your analysis. Branching order was uncertain (or was it). All have 'dominant' gametophyte and small sporophyte
+
+Alternation of Generations
+	- alternation of a diploid sporophtte generation and a haploid gametophyte generation. Diploid organism mosis to produce haploid, gamete production producing 2n individual. 
+	- How long they spend in these two life histories states depedns on the groups (mosses spend most time in the Haploid Gametophyte state). AKA in mosses, hornworts, and liverwarts the Gametophyte is dominant and sporophyte is dependent. 
+	- Gametophyte is also photosynthetic (though in hornworts the sporophyte is also photosynthetic) 
+
+More alternative hypotheses for these groups: 
+(Bryophytes, Vascular Plants)? Bryophyte specialist dont like this but many studies do support this 
+     ^ monophyly of these groups
+Coalescent analyses support this designation
+
+Liverworts 
+- 9000 species (may be an underestimate), lack stomata, Gemma asexual reproduction or sporophyte sexual reproduction.
+
+Mosses 
+- done that seen that
+- 15,000 sp
+
+Hornworts 
+- 100 sp
+- Sporangium are long and hornlike and photosnythetic 

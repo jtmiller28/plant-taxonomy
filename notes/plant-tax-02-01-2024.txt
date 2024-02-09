@@ -1,0 +1,123 @@
+Rise of the Seed plants
+
+Shared Shortcoming
+- Restriction of habitats due to aspects of their lifecycles
+	- Travel through water (flagellated sperm must travel through water) therefore water must be present for fertilization to take place. 
+	- There are some cases where this is broken in the manillaphytes and lycophytes but this is generally true
+- Therefore they are on the land, but their distributions are limited by this reproduction system. They couldnt truelly become land adapted. 
+- The aphibias of the plant world! 
+- mirrors the evolution of the amiotic land
+- Though, there still are highly adapted species to highly arid enviroment (saginella resurection fern) 
+
+Living Seed Plants
+- Gymnoperms (may or may not be a clade)
+- Angiosperms (most definitely a clade) 
+
+Seed Plants: 
+	- All seed plants are heterosporous **very important, the origin couldnt take place without this**
+	- BUT not all heterosporous plants produce seeds (previous examples) 
+	- Seed: major evolutionary event
+	- Late Devonian, first seeds. 
+
+What are seeds?
+	- Seed = mature (fertilized) ovule 
+		- Ovule = an integumented megasporangium 
+			- Megasporangium surrounded by integuments
+				- Megasporangium is that sporangium that will produce the megaspores -> produce the mega gametophytes -> produces the egg
+			- Integument is the protective covering
+				- Integuments are just modified leaves (modified bracts we think) 
+			- Micropyle - an opening in the integuments that allows the sperm to enter the ovule 
+
+Seed = mature (fertilized) ovule 
+	- Ovule = an integumented megasporangium 
+		1. Only one megaspore survives
+		2. It is not released, but forms a female gametophyte inside the megasporangium
+		3. A leaf or leaves (bracts) that surround megasporangium form integument 
+
+Evolution of Ovule:
+Actual fossils showing transitional forms 
+megasporangium surrounded by bracts that were splayed out, slowly fusing occurred forming the integument (this is all potential). First ovules are found during the Devonian. 
+
+
+Early Seed Plants
+- Seed ferns: tree like, have fern looking leaves and have seeds (not united with ferns...) 
+
+Microstrobilus: can be produced on the same or different plant. Strobilus is similar to the others we've seen prior, but now its filled with microsporangia. Subtending each microsporangium there is a microsporophyll subtending it. Lots of meiosis occurring here to create many many microspores. When mature the spores will be released from the microsporangium, which will hopefully find a ovule.
+
+Pollen and pollination 
+Pollen = microspore that contains a microgametophyte (16 to 32 cells in gynmosperms, 2-3 cells in angiosperms
+Pollination (gymnosperms) = transfer of pollen to the micropyle (gynmosperms)
+Pollination (angiosperms) = different! micropyle structure differs
+
+Pollination and fertilization 
+- microsporangium with a ton of microspores, these microspores are shed (as pollen grains), ends up at the micropyle of the ovule, 
+- 4 megaspores within a megasporangium, 3 abort, one develops. 
+- The female gametophyte produces the archeogonia, within each archeogonia it produces an egg (gymnosperm specific), later on the megagametophyte can be canabilized by the archegonium. 
+
+Seed
+1. In all sered plants, gametophyte is deependent on the sporophyte (gametophyte is not free living!) 
+2. Fertilization without water (water is not needed) 
+3. Embryo is protected (integument = seed coat) 
+4. Embryo has a food source (megagametophyte in most gymnos) 
+All of these are important adaptations for life on land. 
+
+Gymnosperm life cycle 
+- not much to say, just look at the figures. 
+
+
+Gymnosperms - A long time from pollination to mature seed....
+- can take a year to go from pollination to embryo....can take a long freaking time just from pollination to fertilization.
+
+Seed Plant Diversity 
+- "Gynmosperms" since were spanning a non-monophyletic group. 
+- They have many exctinct lineages (e..g. seed ferns) 
+- Acrogymnospermae could be a clade...though its a tad difficult to know if the extinct groups have been excluded...
+
+Cycads, Ginkgo, Conifers, Gnetales (Gnetophytes)
+-
+
+Relationships among extant seed plants
+- Very difficult...
+- With morphology, phylogenies showed Gnetophytes to be sister group to angiosperms (Anthophyte hypothesis) 
+- With molecular evidence, phylogeneies put (they found that the morphology is not actually homologous from development level) conifers are sister to gnetophytes, which are sister to ginkos and cycads forming the acrogymnospermae which are sister to all of the angiospemrms. 
+- 3rd hypothesis...with more molecular data, take a look at slide. 
+
+Interesting as Gneatles and conifers share morphological similarities 
+- linear leaves
+- wood anatomy, (circular bordered pits with tori in the protoxylem) 
+
+Overall, were not super clear on the gymnosperms relations to that of the angiosperms. 
+
+Cycads
+(Cycads, Ginkgos) usually. 
+- 2 families
+	- Cycadaceae 20 sp
+	- Zamiaceae 11 sp
+- Have motile sperm 
+- Cycas: reproductive structure is interesting: Microstrobilus, but no megastrobilus. Instead a megasporophylls (leafy set of sporophylls) 
+
+Ginkgos
+	- One living species Ginkgo biloba
+	- old lineage, common in jurassic 
+	- living fossil
+	- motile sperm (dont think theres any utility) 
+	- Resilieent to urbanized conditions 
+	- Long shoot, short shoot: leaves and ovules born on shorrt shoots
+	- No real strobili, loosely packed paried of microsporangia, paired ovules as well
+
+Gnetophytes
+	- angiosperm like characters:
+		- Angiosperm like leaves (Gnetum) 
+		- Double Fertilization (sort of) (doesnt have a function) 
+		- Stamen-like microstrobili 
+		- Vessel elements (xylem) some kinda have these, not homologous along a developmental pathway
+		- "anthophyte hypothesis" 
+
+	- Ephedra 
+		- micro and mega strobili 
+		- Occurs in the desert sw 
+		- ephedrine - used for constriction of the vessels 
+	- Welwhtchia 
+		- 2 leaves that just keep growing....
+		- microstrobili and megastrobilus (diecoous plants) 
+

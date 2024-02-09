@@ -1,0 +1,28 @@
+Phylogenetic Definitions:
+Classification: Why monophyly? 
+- Why should or shouldn't we say 'reptiles' 
+	- As evolutionary biologist, what are we interested in: 
+		- Genenology		
+		- History
+		- How have these groups evolved? 
+	- So we describe groups:
+		- What is a clade? How is it different from a genus? 
+			genus only includes those that are described.
+			clades are found in nature (natural entities), genus does not exist (you have to test it as an entity that actually exist) 
+		- So its a question of classifying abstract concepts vs natural entities. 
+		
+	Why cant we just use traits? Because homoplausy is rare globally, though can be quite common locally on the tree of life. Evolution of a trait also can be different, which shows that the evolution is different. 
+
+	So utilitarian or not? 
+
+New Stuff:
+Qualifying clauses: When uncertainty bothers you: want to name a clade but if an external or internal member jumps inside/outside will implode the definition
+	- Can be used to restrict the use of the defined name to the context of those phtlogenetic hupotheses in which certain specified relatioships are present, rendering the name inapplicable in the context of alternative phylogenetic hypotheses.
+Basically makes an absolute tolerance. 
+
+e.g. for Cupressophya: if  genotum or pinus enter this cupressophyta then this clade implodes.
+
+To publish a clade: 
+
+What is a species:
+Species as a rank...species as an identity in real life, darwin believed in the latter.  

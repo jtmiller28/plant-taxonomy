@@ -1,0 +1,150 @@
+Vascular Plants (Tracheophytes)
+Major shift in life cycles to Diploid sporophyte dominance. 
+
+Polyspragiophytes: Only a group distinct when we include some fossils, really arent used that often, but they do hold some interesting synapomorphies (green sporophyte), independent & branching sporophyte. Sporophyte is dominant, but there are also independent gametophyte in some cases. These fossil lineages dont have vascular tissue. 
+Aglaophyton - lacks vascular tissue, has sporophytes, had independent and somewhat large gametophyte. 
+
+Tracheophytes: We're talking about vascular plants, so were talking about plants with a conducting system. 
+Major Synaps
+- Independent, branched sporophyte 
+- Xylem with trachieds 
+
+Tracheids: special elongated cells taht condut water
+- allowed plants to move into drier habitats 
+- provieded structural support, allows you to grow taller. 
+- major innovation in plant evolution. Prior things were small and not able to establish in many enviroments 
+
+Phylogeny of the Tracheophytes:
+- Xylem with tracheids is the synapomorphy for this group
+- After reinophytes, synapomorphy is lignin in the cell walls, which allows a for a major shift in morphology (structural stability) 
+- After this, we have a split between the lycophytes and the nymilophytes(?)
+
+Lycophytes: 
+- cooksonia is the sister group to the rest of the Lycophytes. Depopurate group today, many lineages here are extinct. 
+- 410 mya highlights just how fast diversification for vascular plants occurred. 
+- Fossil record back to the eraly Devonian (354-417mya) 
+- small today (can be viney), but there are some tree-like fossils Lepidodendron
+	Lepidodendron	
+		- Started in Devonian, Abundant in the Carbonifernous 
+		- Contributed to the vast swamps, contributed to the coal we mine today
+		- Dichotomous branching (even roots) 
+		- Composite view from assembly of "organ genera"
+- Dichotomous branching 
+- true leaves = microphylls (mosses and liverwarts DONT have leaves, they can be unvascularized flaps of tissue) 
+	- Small (usually) leaves with one unbranched vein
+		Microphylls
+			- Has vascular tissue, if it doesnt its a "scale"
+
+	Living Lycophytes ~ 1200 species
+		- Lycopodiaceae
+			- 1 genera
+			- Homosporous 
+			- Leaves lack a ligule
+		- Selaginellaceae + Isoetaceae
+			- 1 genera
+			- Heterosporous 
+			- Leaves have a ligule: small flap of tissue that occurs on the surface on the leaf (ligule just means a flap of tissue of sometype) 
+				Homosporous 
+					- A single type of spore
+					- Spore germinates to form a potentially bisexual gametophyte
+				Heterosporous 
+					- Two types (usually sizes) of spores
+					- Spores from unisexual gametophyte
+				- Heterospory has originated several times...
+					- Microspores are dispersed by wind typically
+					- Megasporagium can stay on parent plant and germinate into a megagametophyte. 
+Terminology: 
+Strobilus: A temrinal cluster of sporophylls (spore bearing leaves) (looks like a cone) 
+
+Lycophyte Diversity
+	- Lycopodium 
+		- Club Moss, running cedar
+		- Highly flammable spores
+		- Fossils lepidodendron: this name only really applies to the stem, "organ genera" Lepidodendron (stem), Lepidophyllpodes (leaves), Stigmaria (rhizome), Stigmarai (rhizome), Lepidocarpon (megasporangiate strobilus) a single sporophyll with a megasporangium ith a single megaspore, protected by tissue (very very close independent evolution of the seed). Lepidostrobus (microsporangiate strobilus) 
+			- Interestingly the microphylls (simple with one vein) have been found to be a meter long...no found in any extant microphyll.  
+	- Diphasiastrum has been segregated, but after molecular sampling we dont think these are monophyletic. 
+	- No branched veins
+
+Euphyllophytes
+	- Pseudomonopodial growth
+	- Chloroplast DNA
+	- Multiflagellete sperm
+		- Two Major Clades
+			- Monilophytes (ferns)
+			- Seed plants (spermatophytes) (lignaphytes) 
+	- Synapomorphies
+		- Multiflagellate sperm
+		- Overtopping = pseudomonopodial growth (main step axis with side axes)
+		- Chloroplast DNA inversion, phylogenetic marker of a inversion in the early vascular plants.
+Overtopping can lead to planation and webbing which results in a megaphyllous leaf. 
+
+Most Euphyllophytes have Megaphylls rather than microphylls (Eu = true) 
+- Most have large and more than one veined leaves
+- Vascularture of the stem is a cylinder: microphyllous leaf there is a vein that connects the cylinder to the leaf (continuous). In contrast, in a megaphyll it takes alot more vasculature to connect the leaf to the cylinder stem. This creates a "gap" between the leaf veination and the main stem's cylinder. Look at a picture of this...
+
+
+Monilopyhytes: Characteristic stem anatomy: 
+Clade is well supported by DNA data
+- Sort of a hogepog of groups that dont really look like they fall together. 
+- within here are the actual ferns 
+- Sometimes fern is restricted to a particular group or just all of the monilophytes. 
+	- Ferns 12,000 species
+		- Psilotales  	 "whisk ferns"
+		- Ophioglossales "ferns"
+		- Equisetophytes
+		- Mar
+
+Psilotales and Ophioglossales are sister groups
+Equisetophytes: some are highly branched that are highly photosynthesized, some produce non-photosynthetic stems with strobulus
+Leptosporangiate ferns: what we often think of as a fern 
+"Pteridophytes" <- not good, this is them creating two classifications for the lycophytes and monilophytes
+
+Psilotails
+	Psilotum - 12sp, dichotomous branching, in tropics, enations (prophylls, no vasculature, not a ligule (hasnt been called this but matches definition...)), Synangium : 3 sporangium fused toghether, epiphyte (no roots) ryzome, photosynthetic gametophyte, dichotomous branching gametophyte (not as small as most fern gametophyte)
+	Tmesipteris - 2 or 3 sp: Not really leaves, Synangium occurs by 2 fused sporangia 
+Ophioglassales 
+	Ophioglossaceae - Adder's tongue family
+		- 4 genera
+		- 70-90 sp
+		- Botrychium
+		- 
+		- Highest chromosome number, polyploid 2n = 1260....
+		- Each leaf is divided with a sterile photosynthetic part and a reproductive part that bears the sporangia 
+Equisetophytes
+	Equisetaceae
+		one genus Equisetum: 15 sp
+		silica concentrated in stems, 'scouring rush' 
+		distinctive grooved, hollow stems
+		distinctive spores with elaters
+		whorled leaves
+		two subgenera 
+		Strobilus - each piece is called a sporangiophore -> have the sporangium that produce the spores, the spores contain an Elater that aids in dispersal. Produces a photosynthetic gametophytes
+
+Maratialles 
+Marattiaceae (only 1 fam) 
+- 6 genera 
+- large tree like
+- living fossil, largely unchanged
+
+Leptosporangiate ferns
+	- Go all the way back to the carboniferous 
+	- Marvelous megaphylls
+	- Fiddle heads (way for leaf to be in bud) (those coiled leaves that unroll)
+	- Leptosporangium 
+		- Unique to this group
+		- small
+		- thin walled	
+		- prodduce usually 64 spores (min 16, 32 occassionally)
+	- Lots of diversity 
+	- Annulus catapults the spores
+	- Sporangia are located in clusters called sori on the backs of the leaves 
+	- Sorus covered by indusium as a protective cover (indusia) indusia are often used as taxonomic markers. 
+	- Marsileales::Marsileaceae: water ferns heterospry
+	- Salvinaceae heterospry
+	- Fossil record goes back to the Carboniferous, the diversification times are however relatively recent. "Diversified in the shadow of the angiosperms". 
+
+Ferns and Polyploidy
+- some of the best explained ploidy complexes exists in ferns 
+
+
+
