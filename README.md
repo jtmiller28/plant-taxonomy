@@ -1,2 +1,4 @@
-# plant-taxonomy
-A repo for my graduate plant taxonomy course
+### Plant Taxonomy  
+Table of Contents
+I. Plants, Taxonomy, and Systematics
+  i. [Introduction to Vascular Plants](/notes-mds/intro-vascular-plants.md)
