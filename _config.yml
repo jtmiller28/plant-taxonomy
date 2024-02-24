@@ -1,6 +1,6 @@
 theme:  jekyll-theme-minimal
 title: Vascular Plant Taxonomy 
 markdown: kramdown
-kdramdown: 
+kramdown: 
   auto_toc: true
   toc_levels:1..6
