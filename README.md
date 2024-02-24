@@ -1,4 +1,5 @@
 ### Plant Taxonomy  
-Table of Contents <br>
+* Table of Contents 
 I. Plants, Taxonomy, and Systematics <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Introduction to Vascular Plants](/plant-taxonomy/notes-mds/intro-vascular-plants.md) <br>
+{:toc}
+i. [Introduction to Vascular Plants](/plant-taxonomy/notes-mds/intro-vascular-plants.md)
