@@ -4,5 +4,4 @@ markdown: kramdown
 kramdown:
   auto_toc: true
   toc_levels: 1..6
-sass:
-  sass_dir: _sass
+
