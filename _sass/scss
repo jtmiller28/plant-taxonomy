@@ -1,0 +1,23 @@
+/* Custom styles to adjust layout */
+.container {
+  display: flex;
+}
+
+.content {
+  flex: 1;
+  margin-left: 20px; /* Adjust as needed */
+}
+
+.sidebar {
+  width: 200px; /* Adjust width as needed */
+  margin-right: 20px; /* Adjust as needed */
+}
+
+/* Ensure that title and table of contents are left-aligned */
+.title {
+  text-align: left;
+}
+
+.toc {
+  text-align: left;
+}
