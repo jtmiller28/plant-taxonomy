@@ -1,9 +1,9 @@
 ---
 repo-link: "https://github.com/jtmiller28/plant-taxonomy"
 layout: default
+title: Vascular Plant Taxonomy
 ---
 
-### Vascular Plant Taxonomy
 {{ site.description }}
 For detailed information about how to read through this site, please visit the [about](/about.md) page.  
 
