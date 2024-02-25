@@ -1,5 +1,6 @@
 ---
 repo-link: "https://github.com/jtmiller28/plant-taxonomy"
+layout: default
 ---
 
 {% include navigation.html %}  
