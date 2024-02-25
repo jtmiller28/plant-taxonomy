@@ -9,5 +9,4 @@
 ## How to use this site
 Currently under construction, methodology will be placed here. 
 
-## Contact
-- Email: {{ site.email }}
+{% include footer.html %}
