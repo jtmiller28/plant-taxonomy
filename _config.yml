@@ -1,7 +1,5 @@
-theme: jekyll-theme-minimal
+description: "A gitpages for my own personal notetaking on vascular plant diversity" 
+email: millerjared@ufl.edu
 title: Vascular Plant Taxonomy 
-markdown: kramdown
-kramdown:
-  auto_toc: true
-  toc_levels: 1..6
+
 
