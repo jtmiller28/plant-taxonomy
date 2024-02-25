@@ -3,8 +3,6 @@ layout: default
 title: About
 ---
 
-# About 
-
 ## Project Description 
 
 {{ site.description }}
