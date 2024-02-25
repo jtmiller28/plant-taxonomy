@@ -8,4 +8,4 @@ layout: default
 For detailed information about how to read through this site, please visit the [about](/about.md) page.  
 
 Also see my [github repo]({{ repo_link }}) where this site is built.  
-{% include footer.html %}
+
