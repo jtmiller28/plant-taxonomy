@@ -10,6 +10,7 @@ For detailed information about how to read through this site, please visit the [
 # Table of contents
 1. Introduction to Plant Systematics
     1. [Vascular Plants](./note-mds/intro-vascular-plants.md)
+    2. [History of Taxonomy](./note-mds/taxonomy-intro.md)
 
 
 Also see my [github repo]({{ repo_link }}) where this site is built.  
